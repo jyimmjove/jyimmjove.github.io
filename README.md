@@ -34,9 +34,7 @@
 <body>
 <center>
 <h1> CHILLHIKERS OUTDOOR STORE</h1>
-
 </p>
-<title>CHILLHIKERS OUTDOOR</title>
 <center>
 <img>
 <img src="Main Pic.jpg"  alt="Main Pic.jpg" width="400" height="200">
