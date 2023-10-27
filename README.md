@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 <title>CHILLHIKERS OUTDOOR STORE</title>
 <style>
