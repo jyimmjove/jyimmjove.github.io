@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
 <title>CHILLHIKERS OUTDOOR STORE</title>
 <style>
