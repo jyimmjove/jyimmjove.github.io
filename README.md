@@ -6,28 +6,23 @@
         background-color: gray;
         color:white;
     }
-
     nav {
             background-color: #f2f2f2;
             padding: 20px;
         }
-
         nav ul {
             list-style-type: none;
             padding: 0;
             margin: 0;
         }
-
         nav ul li {
             display: inline;
             margin-right: 20px;
         }
-
         nav ul li a {
             text-decoration: none;
             color: #333;
         }
-
 </style>
 </head>
 <body>
@@ -46,11 +41,8 @@
     </ul>
 </nav>
 <br><br>
-
 <h2> About Us</h2> 
-
-CHILLHIKERS <br>
-
+<P>CHILLHIKERS</P><br>
 Come visit us. We will help and guide you to have the best outdoor experience. We also offer outdoor stuff at a reasonable price - reliable gears to protect you and fully enjoy the outdoor life.
 
 <h3>Links</h3>
